@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "01498df1-ab8b-43d4-ab01-bd911c0e6582",
+      "type": "button",
+      "buttonTextForm": "button1",
+      "buttonAlertForm": "hello from button 1"
+    },
+    {
+      "id": "f5daeb25-9a42-4192-acb3-af00de91487b",
+      "type": "paragraph",
+      "paragraphForm": "paragraph 1"
+    },
+    {
+      "id": "447004f2-9d02-42fe-afe7-3ddec569cb41",
+      "type": "button",
+      "buttonTextForm": "button 2",
+      "buttonAlertForm": "hello from button 2"
+    },
+    {
+      "id": "477ed3e8-18e4-4981-8e29-58ab9dca2a02",
+      "type": "paragraph",
+      "paragraphForm": "text 2"
+    }
+  ]
+}
